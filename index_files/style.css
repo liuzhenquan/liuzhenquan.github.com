@@ -1,0 +1,73 @@
+body{margin:0px; background-color:#2858b5; font-size:14px; text-align:left; color:#6e6e6e;}
+
+a{font-size:14px; color:#6e6e6e; }
+a:link{font-size:14px; color:#6e6e6e; text-decoration:none;}
+a:hover{font-size:14px; color:#000000; text-decoration:none;}
+a:visited{font-size:14px; color:#6e6e6e; text-decoration:none;}
+
+/*首页主体背景*/
+.index_bg{background-image:url(images/index_bg.jpg); background-repeat:repeat-x; background-color:#ffffff;}
+
+/*站内链接*/
+
+.f_text{font-size:12px; color:#737373; letter-spacing:2px;}
+a.f_text:link{font-size:12px; color:#737373; letter-spacing:2px; text-decoration:none;}
+a.f_text:hover{font-size:12px; color:#000000; letter-spacing:2px; text-decoration:none;}
+a.f_text:visited{font-size:12px; color:#737373; letter-spacing:2px; text-decoration:none;}
+
+/*首页新闻*/
+
+.synew{font-size:12px; color:#000000; }
+a.synew:link{font-size:12px; color:#000000; text-decoration:none;}
+a.synew:hover{font-size:12px; color:#000000;  text-decoration:underline;}
+a.synew:visited{font-size:12px; color:#000000; text-decoration:none;}
+
+
+/*居中*/
+.page_mid{text-align:center; }
+
+/*产品标题居中显示*/
+.ptitle_mid{text-align:center; padding-top:5px;}
+
+
+/*产品标题*/
+
+.p_text{font-size:14px; color:#737373; font-weight:bold; }
+a.p_text:link{font-size:14px; color:#737373;  text-decoration:none; font-weight:bold;}
+a.p_text:hover{font-size:14px; color:#000000;  text-decoration:none;font-weight:bold;}
+a.p_text:visited{font-size:14px; color:#737373; text-decoration:none;font-weight:bold;}
+
+
+/*产品简介*/
+
+.p_jj{font-size:12px; color:#737373; line-height:20px; text-align:left;}
+a.p_jj:link{font-size:12px; color:#737373; line-height:20px;text-decoration:none;text-align:left;}
+a.p_jj:hover{font-size:12px; line-height:20px; color:#000000;  text-decoration:none;text-align:left;}
+a.p_jj:visited{font-size:12px; color:#737373; line-height:20px; text-decoration:none;text-align:left;}
+
+/*产品详细*/
+
+.p_more{text-align:right;}
+.p_xx{font-size:12px; color:#fa9506; }
+a.p_xx:link{font-size:12px; color:#fa9506; text-decoration:none;}
+a.p_xx:hover{font-size:12px;  color:#fa9506;  text-decoration:underline;}
+a.p_xx:visited{font-size:12px; color:#fa9506;  text-decoration:none;}
+
+
+/*文章内容*/
+.nierong{padding-top:10px; font-size:14px; letter-spacing:1px; line-height:30px; text-indent:2em;}
+
+/*新闻列表时间*/
+.time{text-align:right; color:#a1a1a1;}
+
+/*新闻内容时间*/
+.xwnrtime{font-size:12px; text-align:center; color:#a1a1a1;}
+
+/*新闻内容标题*/
+.xwnrtitle{font-size:16px; text-align:center; color:#666666; font-weight:bold;}
+
+
+.tmain{font-size:12px; color:#6e6e6e; }
+a.tmain:link{font-size:12px; color:#6e6e6e; text-decoration:none;}
+a.tmain:hover{font-size:12px; color:#000000;  text-decoration:underline;}
+a.tmain:visited{font-size:12px; color:#6e6e6e; text-decoration:none;}
